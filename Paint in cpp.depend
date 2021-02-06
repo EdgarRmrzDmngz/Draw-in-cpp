@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1612651848 source:c:\users\edgar\documents\draw in cpp\main.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1612651848 source:c:\users\edgar\desktop\draw in cpp\main.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
